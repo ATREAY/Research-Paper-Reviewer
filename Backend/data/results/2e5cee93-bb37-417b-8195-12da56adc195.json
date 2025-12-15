@@ -1,0 +1,22 @@
+{
+  "technical_score": 7.5,
+  "impact_score": 10.0,
+  "weaknesses": [
+    "Related work section is weak or too short."
+  ],
+  "novelty_flags": [
+    "Potential contribution: Current approaches to object recognition make essential use of machine learning methods",
+    "Potential contribution: To im-\nprove their performance, we can collect larger datasets, learn more powerful models, and use bet-\nter techniques for preventing over\ufb01tting",
+    "Potential contribution: Until recently, datasets of labeled images were relatively\nsmall \u2014 on the order of tens of thousands of images (e",
+    "Potential contribution: , NORB [16], Caltech-101/256 [8, 9], and\nCIFAR-10/100 [12])",
+    "Potential contribution: Simple recognition tasks can be solved quite well with datasets of this size,\nespecially if they are augmented with label-preserving transformations"
+  ],
+  "recommendation": "Accept (High Impact)",
+  "paper_id": "2e5cee93-bb37-417b-8195-12da56adc195",
+  "summaries": {
+    "other": "ImageNet Classi\ufb01cation with Deep Convolutional\nNeural Networks\nAlex Krizhevsky\nUniversity of Toronto\nkriz@cs.utoronto.ca\nIlya Sutskever\nUniversity of Toronto\nilya@cs.utoronto.ca\nGeoffrey E. Hinton\nUniversity of Toronto\nhinton@cs.utoronto.ca",
+    "abstract": "We trained a large, deep convolutional neural network to classify the 1.2 million\nhigh-resolution images in the ImageNet LSVRC-2010 contest into the 1000 dif-\nferent classes. On the test data, we achieved top-1 and top-5 error rates of 37.5%\nand 17.0% which is considerably better than the previous state-of-the-art. The\nneural network, which has 60 million parameters and 650,000 neurons, consists\nof \ufb01ve convolutional layers, some of which are followed by max-pooling layers,\nand three fully-connec...",
+    "introduction": "Current approaches to object recognition make essential use of machine learning methods. To im-\nprove their performance, we can collect larger datasets, learn more powerful models, and use bet-\nter techniques for preventing over\ufb01tting. Until recently, datasets of labeled images were relatively\nsmall \u2014 on the order of tens of thousands of images (e.g., NORB [16], Caltech-101/256 [8, 9], and\nCIFAR-10/100 [12]). Simple recognition tasks can be solved quite well with datasets of this size,\nespeciall...",
+    "results": "Our results on ILSVRC-2010 are summarized in Table 1. Our network achieves top-1 and top-5\ntest set error rates of 37.5% and 17.0%5. The best performance achieved during the ILSVRC-\n2010 competition was 47.1% and 28.2% with an approach that averages the predictions produced\nfrom six sparse-coding models trained on different features [2], and since then the best pub-\nlished results are 45.7% and 25.7% with an approach that averages the predictions of two classi-\n\ufb01ers trained on Fisher Vectors (FV..."
+  }
+}

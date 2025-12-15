@@ -1,0 +1,14 @@
+{
+  "technical_score": 7.0,
+  "impact_score": 6.0,
+  "weaknesses": [
+    "No experimental evaluation found.",
+    "Related work section is weak or too short."
+  ],
+  "novelty_flags": [],
+  "recommendation": "Weak Accept",
+  "paper_id": "a2868927-486e-4b8c-933e-01495aaee163",
+  "summaries": {
+    "other": "\n\n\n\n\n\n\n\n\n"
+  }
+}
