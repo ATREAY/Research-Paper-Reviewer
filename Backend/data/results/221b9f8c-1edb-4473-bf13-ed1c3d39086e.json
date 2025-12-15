@@ -12,7 +12,7 @@
     "Potential contribution: Simple recognition tasks can be solved quite well with datasets of this size,\nespecially if they are augmented with label-preserving transformations"
   ],
   "recommendation": "Accept (High Impact)",
-  "paper_id": "2e5cee93-bb37-417b-8195-12da56adc195",
+  "paper_id": "221b9f8c-1edb-4473-bf13-ed1c3d39086e",
   "summaries": {
     "other": "ImageNet Classi\ufb01cation with Deep Convolutional\nNeural Networks\nAlex Krizhevsky\nUniversity of Toronto\nkriz@cs.utoronto.ca\nIlya Sutskever\nUniversity of Toronto\nilya@cs.utoronto.ca\nGeoffrey E. Hinton\nUniversity of Toronto\nhinton@cs.utoronto.ca",
     "abstract": "We trained a large, deep convolutional neural network to classify the 1.2 million\nhigh-resolution images in the ImageNet LSVRC-2010 contest into the 1000 dif-\nferent classes. On the test data, we achieved top-1 and top-5 error rates of 37.5%\nand 17.0% which is considerably better than the previous state-of-the-art. The\nneural network, which has 60 million parameters and 650,000 neurons, consists\nof \ufb01ve convolutional layers, some of which are followed by max-pooling layers,\nand three fully-connec...",

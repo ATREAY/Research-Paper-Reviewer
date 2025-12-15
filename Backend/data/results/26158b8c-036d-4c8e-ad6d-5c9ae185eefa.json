@@ -1,0 +1,22 @@
+{
+  "technical_score": 7.0,
+  "impact_score": 9.5,
+  "weaknesses": [
+    "No experimental evaluation found.",
+    "Related work section is weak or too short."
+  ],
+  "novelty_flags": [
+    "Potential contribution: Agency, the capability of an entity to act upon and re-\nceive information from its surroundings, is a fundamen-\ntal notion in both artificial intelligence and the founda-\ntions of physics",
+    "Potential contribution: In AI, agents interact with partially ob-\nservable environments to maximise cumulative reward,\nforming the basis of reinforcement learning and multi-\nagent systems [1, 2]",
+    "Potential contribution: In the informational foundations\nof physics, \u201cagents in laboratories\u201d are modelled as local\noperations inserted into a spacetime environment, for-\nmalised by higher-order quantum operations [3\u20136]",
+    "Potential contribution: Both\nframeworks hinge on the interplay between an agent\nand its environment, yet they have developed indepen-\ndently and no direct mathematical correspondence be-\ntween them has been established",
+    "Potential contribution: Bridging these viewpoints could bring new ideas to\nboth fields"
+  ],
+  "recommendation": "Accept (High Impact)",
+  "paper_id": "26158b8c-036d-4c8e-ad6d-5c9ae185eefa",
+  "summaries": {
+    "other": "On Decision-Making Agents and Higher-Order Causal Processes\nMatt Wilson\u2217\nUniversit\u00b4e Paris-Saclay, CNRS, ENS Paris-Saclay,\nInria, CentraleSup\u00b4elec, Laboratoire M\u00b4ethodes Formelles\n(Dated: December 12, 2025)\nWe establish a precise correspondence between decision-making agents in partially observable\nMarkov decision processes (POMDPs) and one-input process functions, the classical limit of higher-\norder quantum operations. In this identification an agent\u2019s policy and memory update combine into\na p...",
+    "introduction": "Agency, the capability of an entity to act upon and re-\nceive information from its surroundings, is a fundamen-\ntal notion in both artificial intelligence and the founda-\ntions of physics. In AI, agents interact with partially ob-\nservable environments to maximise cumulative reward,\nforming the basis of reinforcement learning and multi-\nagent systems [1, 2]. In the informational foundations\nof physics, \u201cagents in laboratories\u201d are modelled as local\noperations inserted into a spacetime environmen...",
+    "conclusion": "The correspondence established in this article shows\nthat deterministic agents in artificial intelligence and\none-input process functions in the foundations of physics\nare mathematically equivalent. Our main result proves\na bijection between equivalence classes of finite-memory\nPOMDP agents and one-input process functions: com-\nbining an agent\u2019s policy and memory update yields a 1-\ninput process function, whilst every such process function\ndecomposes uniquely back into a policy and update. Two\na..."
+  }
+}
